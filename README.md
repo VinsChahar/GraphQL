@@ -1,1 +1,1 @@
-# GraphQL Learnings
+# GraphQL - React
